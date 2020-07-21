@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;;
 }
+header {
+  height: 50px;
+  background-color: #ff9a4b;
+}
+footer {
+  height: 50px;
+  background-color: #aaaaaa;
+}
